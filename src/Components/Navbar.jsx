@@ -29,8 +29,6 @@ function Navbar({setCategory}) {
         <li className="nav-item">
           <div className="nav-link" onClick={()=>setCategory("entertainment")}>Entertainment</div>
         </li>
-        
-       
       </ul>
     </div>
   </div>
